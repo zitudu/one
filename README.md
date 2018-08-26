@@ -7,6 +7,9 @@
 
 # One
 
+[![Build Status](https://travis-ci.org/zitudu/one.svg?branch=master)](https://travis-ci.org/zitudu/one)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/zitudu/one/blob/master/LICENSE)
+
 `One` is a cross-clouds running on runc file system that saves objects with taggings.
 
 # Roles
